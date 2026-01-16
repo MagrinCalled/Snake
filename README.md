@@ -1,4 +1,4 @@
-First part is a classical Snake game one can can play. Second part is implementation of machine learning to the game to train an ai agent to play the game.
+First part is a classical Snake game one can play. Second part is implementation of machine learning to the game to train an ai agent to play the game.
 This is done in two approches:
 - first approch is really simple and naive, the game state is only the direction of danger (up, down, left, right), direction of the food and current direction as one hot inputs.
 We can see that it is pretty basic but it quickly to high scores (as high as arround 110 with less than 1_000 games) but the main bottleneck of this approch is the fact that because
